@@ -82,6 +82,18 @@ Fontes selecionadas e utilizadas no NotebookLM:
 - [OverTheWire](https://overthewire.org/wargames/) – Desafios de segurança.  
 
 ---
+## 🛠️ Evidências
+
+Abaixo estão registros visuais que comprovam o uso do **NotebookLM** e a organização do conteúdo em formato de mapa mental e síntese documental:
+
+### 📄 Documento Estruturado
+<img width="1919" height="1126" alt="Resumo NotebookLM" src="https://github.com/user-attachments/assets/d2cdc5ae-63b2-43c0-93cf-97aca8597805" />
+
+### 🧠 Mapa Mental (NotebookLM)
+<img width="3985" height="10137" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/f5a3252d-2d47-4ff8-8d17-a5ddf0b00cab" />
+
+
+---
 
 ## 📈 Próximos Passos
 - Expandir o roadmap com **labs práticos** (Packet Tracer, Kali Linux).  
@@ -90,8 +102,3 @@ Fontes selecionadas e utilizadas no NotebookLM:
 
 ---
 
-> 📌 Este README atende todos os requisitos do desafio da DIO:  
-> - Contexto e Objetivos ✔️  
-> - Curadoria de Fontes ✔️  
-> - Engenharia de Prompts e Cicatrizes ✔️  
-> - Miniguia de Estudo (resumos, glossário, prompts reutilizáveis) ✔️  
